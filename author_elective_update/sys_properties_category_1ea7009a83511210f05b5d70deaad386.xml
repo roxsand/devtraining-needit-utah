@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name>Criteria</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-19 04:17:51</sys_created_on>
+        <sys_id>1ea7009a83511210f05b5d70deaad386</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Criteria</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_1ea7009a83511210f05b5d70deaad386</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-19 04:17:51</sys_updated_on>
+        <title/>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=1ea7009a83511210f05b5d70deaad386"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e892cd99db8af1d039639027c596196a</instance_id>
+        <instance_name>dev192654</instance_name>
+        <name>sys_properties_category_1ea7009a83511210f05b5d70deaad386</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category"><sys_properties_category action="INSERT_OR_UPDATE"><name>Criteria</name><sys_class_name>sys_properties_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-19 04:17:51</sys_created_on><sys_id>1ea7009a83511210f05b5d70deaad386</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Criteria</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_category_1ea7009a83511210f05b5d70deaad386</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-19 04:17:51</sys_updated_on><title/></sys_properties_category><sys_translated_text action="delete_multiple" query="documentkey=1ea7009a83511210f05b5d70deaad386"/></record_update>]]></payload>
+        <payload_hash>-1241591541</payload_hash>
+        <record_name>Criteria</record_name>
+        <reverted_from/>
+        <source>a8dce2b583111210f05b5d70deaad309</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-19 04:17:51</sys_created_on>
+        <sys_id>41d74c5a83111210f05b5d70deaad34f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192a2fef7860000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-19 04:17:51</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>45d74c5a591112104e0ef33bc23f3e4e</update_guid>
+        <update_guid_history>45d74c5a591112104e0ef33bc23f3e4e:-1241591541</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-19 04:37:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>44fc2108cd734ba2b43e8b78f6794849</sys_id>
+        <sys_metadata>1ea7009a83511210f05b5d70deaad386</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Criteria</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_1ea7009a83511210f05b5d70deaad386</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_1ea7009a83511210f05b5d70deaad386">41d74c5a83111210f05b5d70deaad34f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-19 04:37:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
